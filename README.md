@@ -1,2 +1,2 @@
-# Maquetacion-Tec
+# Maquetacion-Tec.github.io
 Maquetacion practica
